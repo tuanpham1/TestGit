@@ -18,7 +18,11 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+<<<<<<< HEAD
     NSLog(@"This is a brach part1");
+=======
+    NSLog(@"This is a brach master111111111");
+>>>>>>> master
 }
 
 - (void)didReceiveMemoryWarning
